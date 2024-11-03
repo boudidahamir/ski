@@ -9,6 +9,9 @@ import tn.esprit.spring.exceptions.CourseNotFoundException;
 import tn.esprit.spring.exceptions.RegistrationNotFoundException;
 import tn.esprit.spring.repositories.ICourseRepository;
 import tn.esprit.spring.repositories.IRegistrationRepository;
+import tn.esprit.spring.exceptions.CourseNotFoundException;
+import tn.esprit.spring.exceptions.RegistrationNotFoundException;
+
 
 import javax.transaction.Transactional;
 import java.util.*;
