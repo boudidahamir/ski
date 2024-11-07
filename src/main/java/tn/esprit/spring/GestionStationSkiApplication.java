@@ -13,4 +13,6 @@ public class GestionStationSkiApplication {
 		SpringApplication.run(GestionStationSkiApplication.class, args);
 	}
 
+
+
 }
