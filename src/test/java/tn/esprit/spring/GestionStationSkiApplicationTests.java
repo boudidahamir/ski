@@ -76,6 +76,6 @@ class GestionStationSkiApplicationTests {
 		verify(courseRepository).findById(1L);
 		verify(instRepository).save(s);
 	}
-
+//test
 
 }
